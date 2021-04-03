@@ -1,8 +1,9 @@
 > # Just Javascript
-A JavaScript course by [Dan Abramov](https://justjavascript.com/).
+> A JavaScript course by [Dan Abramov](https://justjavascript.com/).
 
-<p align="center"">
- <img src="https://justjavascript.com/_next/image?url=%2Fcrystal-ball%402x.png&w=640&q=75" />
+<br/>
+<p align="center">
+  <img width="50%" height="50%" src="https://justjavascript.com/_next/image?url=%2Fcrystal-ball%402x.png&w=640&q=75" />
 </p>
 
 # Hey there!
