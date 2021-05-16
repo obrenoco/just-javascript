@@ -1,72 +1,100 @@
+## Fique por dentro
+
+A corrente tradução é uma newsletter feita por [Dan Abramov](https://overreacted.io/) e ilustrada por [Maggie Appleton](https://maggieappleton.com/). A tradução é em caráter voluntário e tem como único objetivo disponibilizar à comunidade o conteúdo da newsletter em português.
+
+> Com base na autorização do autor, você concorda que:
+
+* Ao contribuir com as traduções, você estará de acordo com a divulgação livre do conteúdo traduzido por você no GitHub. 
+* O conteúdo __não__ pode ser disponibilizado fora deste ambiente sob qualquer forma, incluíndo sua venda/redistribuição.
+* Todos os direitos são reservados aos autores Dan Abramov e .
+
+## Quer contribuir com a tradução ?
+
+Se você sabe inglês ou leu alguma parte já traduzida e achou algum erro, envie um PR !
+
+## Index
+* [ [Capitulo 1]() ]: Modelos mentais
+* [ [Capitulo 2]() ]: O universo JavaScript
+* [ [Capitulo 3]() ]: Valores e variáveis
+* [ [Capitulo 4]() ]: Contando Valores pt.1
+* [ [Capitulo 5]() ]: Contando Valores pt.2
+* [ [Capitulo 6]() ]: Igualdade de valores
+* [ [Capitulo 7]() ]: Propriedades
+* [ [Capitulo 8]() ]: Mutação
+* [ [Capitulo 9]() ]: Protótipos
+* [ [Capitulo 10]() ]: Adeus por agora
+
+<br>
+
 > # Just Javascript
-> A JavaScript course by [Dan Abramov](https://justjavascript.com/).
+> Um curso de JavaScript por [Dan Abramov](https://justjavascript.com/).
 
 <br/>
 <p align="center">
-  <img width="50%" height="50%" src="https://justjavascript.com/_next/image?url=%2Fcrystal-ball%402x.png&w=640&q=75" />
+  <img width="40%" height="40%" src="https://justjavascript.com/_next/image?url=%2Fcrystal-ball%402x.png&w=640&q=75" />
 </p>
 
-# Hey there!
+# Olá!
 
-I'm Dan Abramov.
+Eu sou Dan Abramov.
 
-During my first few years of using JavaScript, I felt like a fraud.
+Durante meus primeiros anos de uso de JavaScript, eu me sentia uma fraude.
 
-Even though I could build websites with frameworks, something was missing. I dreaded JavaScript job interviews because I didn't have a solid grasp on fundamentals.
+Mesmo construindo sites com frameworks, algo estava faltando. Eu tinha muito medo de entrevistas de emprego em JavaScript porque não tinha um domínio sólido sobre os fundamentos.
 
-The existing courses never felt quite right.
+Os cursos existentes nunca pareceram muito adequados.
 
-Some of them are visual and easy to follow, but sacrifice too many important nuances. Others were more thorough, but I couldn't get through them without falling asleep because they are tedious and boring.
+Alguns deles são visuais e fáceis de seguir, mas sacrificam muitas nuances importantes. Outros eram mais meticulosos, mas não conseguia passar por eles sem adormecer porque são entediantes e chatos.
 
-They just don't work for me.
+Eles simplesmente não funcionam para mim.
 
-What if there were an online course that could better prepare you to understand JavaScript, but wasn't a grueling march to get through?
+E se houvesse um curso online que pudesse prepará-lo melhor para entender JavaScript, mas não fosse uma jornada exaustiva para chegar lá?
 
-Just JavaScript is that course.
+Just JavaScript é esse curso.
 
-The one I wish I had.
+O que eu gostaria de ter.
 
-If you already know at least the basics of JS, Just JavaScript will help you feel more confident in your knowledge as a developer.
+Se você já conhece pelo menos o básico de JS, Just JavaScript o ajudará a se sentir mais confiante em seu conhecimento como desenvolvedor.
 
-Just JavaScript is my distilled mental model of how JavaScript works and a collaboration with Maggie Appleton.
+Just JavaScript é o meu modelo mental destilado de como o JavaScript funciona, em colaboração com Maggie Appleton.
 
-Her visual story telling skills will help further our understanding, give us a frame of reference, and provide clarity to these mental models.
+Suas habilidades de contar histórias visuais ajudarão a aprofundar nossa compreensão, nos darão um quadro de referência e fornecerão clareza a esses modelos mentais.
 
-We want to share that clarity with you.
+Queremos compartilhar essa clareza com você.
 
-Just JavaScript is a work in progress that exists as a series of free emails.
+Just JavaScript é um trabalho em andamento que existe como uma série de e-mails gratuitos.
 
-Over time these emails will evolve into an in-depth, interactive, fun, multimedia course that explains these powerful mental models for programming with JavaScript.
+Com o tempo, esses emails evoluirão para um curso multimídia profundo, interativo, divertido, que explica esses poderosos modelos mentais para programação com JavaScript.
 
-And you can help...
+E você pode ajudar ...
 
-I will send you drafts of Just JavaScript directly to your inbox for free.
+Enviarei rascunhos do Just JavaScript diretamente para sua caixa de entrada gratuitamente.
 
-There's no editing.
+Não há edição.
 
-No polish.
+Sem polimento.
 
-It's more like a conversation we would have together over a cup of coffee.
+É mais como uma conversa que teríamos juntos tomando uma xícara de café.
 
-By subscribing to updates I will add you to my email list and send a sequence of emails describing my JavaScript mental models. This will eventually be a paid course, but you can unsubscribe at any time.
+Ao assinar atualizações, irei adicioná-lo à minha lista de e-mail e enviar uma sequência de e-mails descrevendo meus modelos mentais JavaScript. Este eventualmente será um curso pago, mas você pode cancelar a inscrição a qualquer momento.
 
-For now it is completely free.
+Por enquanto, é totalmente gratuito.
 
-All I ask is that you reply to the emails and share your opinions and experience.
+Tudo que peço é que você responda aos e-mails e compartilhe suas opiniões e experiências.
 
-Let me know if these models resonate with you. Tell me how you think about JavaScript.
+Deixe-me saber se esses modelos ressoam com você. Diga-me o que você pensa sobre JavaScript.
 
-This email list is the only way to access Just JavaScript. They won't be published here or elsewhere on the web.
+Esta lista de e-mail é a única maneira de acessar Just JavaScript. Eles não serão publicados aqui ou em outro lugar na web.
 
-Please don't share them.
+Por favor, não os compartilhe.
 
-These ideas are raw and fragile, and for now I'm not ready to share them widely just yet.
+Essas ideias são cruas e frágeis e, por enquanto, não estou pronto para compartilhá-las amplamente ainda.
 
-I want to hear from you.
+Eu quero ouvir de você.
 
-When you receive my drafts by email, please hit the Reply button and tell me if you love them, hate them, or if they leave you indifferent.
+Ao receber meus rascunhos por e-mail, clique no botão Responder e me diga se você os ama, odeia ou se eles o deixam indiferente.
 
-You will help motivate me to finish this project!!
+Você vai ajudar a me motivar a terminar este projeto !!
 
-Cheers,
+Abraços,
 Dan
